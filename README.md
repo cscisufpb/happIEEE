@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 Para windows, é necessário instalar o Python através do site da [plataforma](https://www.python.org/downloads/windows/). Para baixar, selecione um executável da versão do Python 3.6.x para Windows de acordo com a arquitetura do computador (32 bits ou 64 bits). Ao abrir o executável, antes de instalar, marque a opção "Add Python 3.6 to PATH", conforme figura abaixo.
 
-![alt-text]("imgs/python-installation-options.png")  
+![alt-text](imgs/python-installation-options.png)  
 
 A instalação do Python também inclui o sistema de gerenciamento de pacotes pip. Assim, após a instalação, abra o terminal do Windows e digite:
 
@@ -102,17 +102,17 @@ jupyter notebook
 
 Depois disso, uma janela similar a figura abaixo será aberta no navegador padrão do computador. 
 
-![alt-text]("imgs/jupyter.png")
+![alt-text](imgs/jupyter.png)
 
 Caso o navegador não abra uma janela, abra o terminal utilizado para inicializar o jupyter e copie a URL no navegador conforme figura abaixo.
 
-![alt-text]("imgs/jupyter-local-host.png")
+![alt-text](imgs/jupyter-local-host.png)
 
 Feito isso, pode acessar os notebooks do projeto happIEEE, sendo estes qualquer arquivo com extensão ipynb. Os notebooks contém descrições e códigos. Para rodar os códigos, selecione a célula e digite shift+enter. 
 
 OBS. As células devem ser rodadas sequencialmente.
 
-![alt-text]("imgs/end.gif")
+![alt-text](imgs/end.gif)
 
 ## Autores
 * Cecília Flávia
